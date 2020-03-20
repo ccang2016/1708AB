@@ -10,7 +10,16 @@ namespace Iot1708AB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CC-----------1708AB");
+            Console.WriteLine("CC-uuuuuuuuuuu--1708AB");
+
+
+            Console.WriteLine("CC-uuuuuuuuuuu--1708AB");
+            Console.WriteLine("CC-uuuuuuuuuuu--1708AB");
+
+            Console.WriteLine("CC-uuuuuuuuuuu--1708AB");
+
+
+            Console.WriteLine("CC-uuuuuuuuuuu--1708AB");
         }
     }
 }
